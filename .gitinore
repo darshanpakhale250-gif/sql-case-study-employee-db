@@ -1,0 +1,33 @@
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.log
+
+# SQL Server backups and database files
+*.bak
+*.mdf
+*.ldf
+
+# Temporary / output files
+*.tmp
+*.out
+*.log
+*.csv
+*.xlsx
+
+# Word temporary files
+~$*.docx
+~$*.doc
+
+# Python cache or environments
+__pycache__/
+*.pyc
+.env
+venv/
